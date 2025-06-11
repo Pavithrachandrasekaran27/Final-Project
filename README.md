@@ -3,9 +3,9 @@
 This app uses machine learning and NLP to predict student performance and summarize learning content.
 
 ## Features
-- 🎓 Pass/Fail Prediction
-- 📈 Score Prediction (Regression)
-- 📚 Topic Summarizer (Hugging Face Transformers)
+-  Pass/Fail Prediction
+-  Score Prediction (Regression)
+-  Topic Summarizer (Hugging Face Transformers)
 
 ## How to Run
 
